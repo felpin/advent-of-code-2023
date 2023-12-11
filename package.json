@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "Algorithms for https://adventofcode.com/2023",
+  "license": "MIT",
+  "author": "Felipe Pinheiro <felipe.pinheiro.90@hotmail.com>",
+  "repository": "github:felpin/advent-of-code-2023",
+  "devDependencies": {
+    "@types/node": "20.10.4",
+    "prettier": "3.1.1",
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3"
+  },
+  "private": true
+}
